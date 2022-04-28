@@ -1,6 +1,6 @@
 <html lang="en">
   <head>
-    <title>LyuOSX Github</title>
+    
   </head>
   <body>
     <h1>Welcome to my github</h1>
