@@ -1,8 +1,7 @@
 <html lang="en">
     <head>
-
     </head>
-    <body style="background-color: black;">
+    <body style="background-color: black; color: white;">
         <h1>Welcome to my Github</h1>
         <h2>I will be uploading random projects i have been working on</h2>
         <br>
