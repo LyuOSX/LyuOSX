@@ -1,12 +1,22 @@
 <html lang="en">
-  <head>
-    
-  </head>
-  <body>
-    <h1>Welcome to my github</h1>
-    <h2>I am currently learning C++<br>
-    I will be uploading some of projects in the variety of langauges i code in<br>
-    The projects uploaded here will vary you might see langauges like <br>
-    C++ CSharp Python HTML CSS JS PHP ASM Java Batch And Shell</h2>
-  </body>
+    <head>
+
+    </head>
+    <body style="background-color: black;">
+        <h1>Welcome to my Github</h1>
+        <h2>I will be uploading random projects i have been working on</h2>
+        <br>
+        <h3>The languages used could be</h3>
+        <ol>
+            <li>ASM</li>
+            <li>C++</li>
+            <li>CSharp</li>
+            <li>Python</li>
+            <li>HTML, CSS, JS</li>
+            <li>PHP</li>
+            <li>Java</li>
+            <li>Bash Scripting</li>
+            <li>Batch</li>
+        </ol>
+    </body>
 </html>
